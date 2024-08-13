@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "role": "Class 10th (77.8%)",
+    "organisation": "Seth M.R Jaipuria School",
+    "startDate": "Aug 2016",
+    "endDate": " -Jun 2018",
+    "location": " Babatpur, Varanasi",
+    
+    "imageSrc": "company/seth.png"
+  },
+  {
+    "id": 2,
+    "role": "Class 12th (74.6%)",
+    "organisation": "Amar Memorial St. Georges School",
+    "startDate": "Aug 2018",
+    "endDate": "-Jun 2020",
+    "location": " Sarnath, Varanasi",
+    
+    "imageSrc": "company/amar.png"
+  },
+  {
+    "id": 3,
+    "role": "B.tech (Computer Engineer 7.69 CGPA)",
+    "organisation": "IKGPTU MAIN CAMPUS",
+    "startDate": "Oct 2020",
+    "endDate": "-Jun 2024",
+    "location": " Kapurthala, Punjab",
+    "imageSrc": "company/ptu.png"
+  }
+]
