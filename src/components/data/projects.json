@@ -1,25 +1,25 @@
 [
   {
     "key": 1,
-    "title": "RESTAURANT",
-    "imageSrc": "https://t3.ftcdn.net/jpg/03/24/73/92/360_F_324739203_keeq8udvv0P2h1MLYJ0GLSlTBagoXS48.jpg",
-    "description": "This is a project made with complete  HTML CSS JS React js.",
-    "demo": "https://www.tripadvisor.in/Restaurants-g297685-Varanasi_Varanasi_District_Uttar_Pradesh.html",
-    "source": "https://github.com/SuryaYadav731/Restaurant"
+    "title": "BLOOD BANK",
+    "imageSrc": "https://www.drsstantiamch.org/uploads/infrastructure/blood_bank.jpg",
+    "description": "I developed a blood bank system using the MERN full stack. The project aims to ensure the availability of all blood groups, addressing the critical need for blood during emergencies.",
+    "demo": "https://www.google.com/search?sca_esv=37e4e18c62986b32&sca_upv=1&sxsrf=ADLYWIIcW0sgeXLoPMytJpzfCoilJriqpA:1723967315130&q=blood+bank&udm=2&fbs=AEQNm0BKxFXqFZETuC92mLOmXO9xJMdcEc6vsS8xotR_o6JIE2lxJVbfbQf0QBF0bvfl3GFNBPTQACMdFh6XPuV1Z0Eg9hjj1mCoiKv3FGCZSoL8LFWndMdM2XR4aGD0cSNlCtcWfG2Uxx1VHbESZZGtTLqJIpWorIEiBwoLHBotrxsca8c17DXljhODP05SZ-xKH05k1jwUlGV8PNmYih-FkegBBuFe9w&sa=X&ved=2ahUKEwibzLDbhv6HAxXtTmwGHUVwJiMQtKgLegQIGhAB&biw=1280&bih=551&dpr=1.5",
+    "source": "https://github.com/SuryaYadav731/blood_bank"
   },
   {
     "key": 2,
-    "title": " TEXT SPEECH CONVERTER",
-    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgMXe0phFn96e66WqgWfwBW7n6mnLQkWBCwg&s",
-    "description": "This is a project made with complete  Use API React js.",
-    "demo": "https://play.google.com/store/apps/details?id=com.mlscanner.image.text.speech&hl=en_IN&pli=1",
-    "source": "https://github.com/SuryaYadav731/speech-converter"
+    "title": " JOB SEARCH",
+    "imageSrc": "https://www.shutterstock.com/image-vector/job-search-logo-260nw-369879497.jpg",
+    "description": "I developed a major project using the MERN stack (MongoDB, React.js, Node.js) and Postman. The project is a job portal that allows job seekers to register, log in, and apply for jobs. ",
+    "demo": "https://www.google.com/search?q=job+search+logo+png&oq=job+search&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARBFGDkYsQMYyQMYgAQyCggCEAAYsQMYgAQyCggDEAAYkgMYgAQyDQgEEAAYkgMYgAQYigUyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQk1MjEzajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8#vhid=cYLUYzw6JVq9gM&vssid=l",
+    "source": "https://github.com/SuryaYadav731/https---github.com-SuryaYadav731-Job-Search"
   },
   {
     "key": 3,
     "title": "AI IMAGE GENERATOR",
     "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRknQ-vOK7qmhDuM5Uk0rtu6QJHbIwzfdhCMA&s",
-    "description": "This is a project made with complete USING OPEN AI React js.",
+    "description": "The AI Image Generator website provides a seamless and engaging way for users to explore the capabilities of AI in visual creativity. By leveraging modern frontend technologies and AI APIs, ",
     "demo": "https://gemini.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=2024enIN_gemfeb&gad_source=1&gclid=Cj0KCQjwiOy1BhDCARIsADGvQnCYvp1ooa0z3VEvMCDGrnyxkxvLuoSq-3LtAu5uA-tjCXUtrvu_7OoaAvWyEALw_wcB",
     "source": "https://github.com/SuryaYadav731/Ai-image-generator"
   }
